@@ -1,7 +1,7 @@
 # Ripple Detection Toolkit
 
 ## Overview
-This repository provides MATLAB workflows for integrated analysis of hippocampal ripple events from electrophysiology,
+This repository provides MATLAB workflows for integrated analysis of hippocampal ripple events from electrophysiology.
 
 
 ## What This Repository Can Do
