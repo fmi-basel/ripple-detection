@@ -1,4 +1,4 @@
-Ripple Detection and Analysis Pipeline
+# Ripple Detection and Analysis Pipeline
 
 Sharp-wave ripples (SWRs) were detected from hippocampal local field potential (LFP) recordings using a multi-stage signal processing pipeline implemented in MATLAB (RIPPLES module). The detection workflow comprised LFP preprocessing and referencing, bandpass filtering within the ripple frequency range, candidate ripple detection, false-positive rejection, feature extraction and event consolidation, export of final ripple timestamps, and downstream spike alignment for ripple-triggered analyses. All detection procedures were performed on continuous LFP traces sampled at 1000 Hz.
 
